@@ -1,3 +1,3 @@
 # SmartHome-Network-DigitalTwin
-A digital twin framework for simulating and optimizing IoT network performance in smart home environments. This repository includes an NS-3-based network simulation, a reinforcement learning (RL) agent for dynamic data rate optimization, and detailed documentation for replication and extension.
-# SmartHome-DigitalTwin-Network
+Digital twin framework for IoT network performance in smart home environment simulation and optimization: this includes a network simulation based on NS-3, an RL agent for dynamic optimization of data rates, and detailed documentation that allows easy replication and further extension of the present work.
+
